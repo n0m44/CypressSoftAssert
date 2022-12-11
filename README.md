@@ -1,4 +1,4 @@
-# cypress-soft-assert
+# CypressSoftAssert
 Вся работа построена на promised-like методах cypress. 
 Также код написан на typescript, при необходимости можно самостоятельно скомпилировать ts -> js через tsc.
 
