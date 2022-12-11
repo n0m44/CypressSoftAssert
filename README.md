@@ -20,7 +20,7 @@
   })
   `
   
-  5. В конце `it(...)` **обязательно** вызывать `cy.assertAll()`
+  5. В конце `it(...)` **обязательно** вызывать `softAssert.assertAll()`
   
 ### Методы:
   1. `isExist(locator: string, msg: string, isExist: boolean = true)` - проверка на существование элемента в DOM.
